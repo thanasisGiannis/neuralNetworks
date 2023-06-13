@@ -9,6 +9,7 @@ clc
 D = double_moon_points(1000,10,3,5);
 n = size(D,1);
 
+
 % split data into train-test datasets
 % by 80-20 rule
 perm = randperm(n);
