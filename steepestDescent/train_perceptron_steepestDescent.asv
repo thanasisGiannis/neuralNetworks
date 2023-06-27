@@ -1,0 +1,6 @@
+function [w] = train_perceptron_steepestDescent(Dtrain)
+% we use column major representation for each 
+% data so we 
+
+
+end
